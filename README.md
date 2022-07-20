@@ -1,2 +1,7 @@
 # hexagon-demo
-六边形架构
+学习六边形架构
+
+## Adapter
+## Application
+## domain
+![img.png](img.png)
